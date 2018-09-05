@@ -1,3 +1,5 @@
-Projeto de Ingressos
+# Projeto de Ingressos
 
-By Rafael
+## Developer
+[@rafmoura](https://github.com/rafmoura)
+
